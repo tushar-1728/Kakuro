@@ -1,6 +1,6 @@
-# Kakurosy
+# Kakuro
 
-**Kakurosy** is an application for playing 9x9 **Kakuro** on. It comes with a web-scraper 
+**Kakuro** is an application for playing 9x9 **Kakuro** on. It comes with a web-scraper 
 for gathering puzzles from the internet, a GUI screen for the user to solve the 
 puzzle and an in-built solver. You can also use it as a solver as it allows custom puzzles to be loaded.
 Kakurosy frames the Kakuro puzzle as an Integer Linear Program, 
